@@ -9,7 +9,7 @@ ext install Lodash
 ```
 * 如果网络不好可以用下载里面的.vsix文件本地安装
 
-![演示](./imgs/install.png)
+![演示](images/install.png)
 
 # 支持的文件格式
 - javascript
@@ -21,4 +21,7 @@ ext install Lodash
 # 使用
 输入"_"符号就会提示lodash所有的的函数
 
-![演示](./imgs/demo.gif)
+![演示](images/demo.gif)
+
+# 源码
+[github](https://github.com/OYsun/Vscode-Lodash-Snippents)
