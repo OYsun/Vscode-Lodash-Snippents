@@ -1,5 +1,3 @@
-# Lodash README
-Lodash工具库是我开发必不可少的，但是在vscode插件市场上找不到使用称心的Lodash snippets，所以就自己写一个。
 
 # 安装 
 
@@ -7,9 +5,6 @@ Lodash工具库是我开发必不可少的，但是在vscode插件市场上找�
 ```javascript
 ext install Lodash
 ```
-* 如果网络不好可以用下载里面的.vsix文件本地安装
-
-![演示](images/install.png)
 
 # 支持的文件格式
 - javascript

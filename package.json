@@ -2,7 +2,7 @@
     "name": "Lodash",
     "displayName": "Lodash",
     "description": "Lodash snippets",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "oysun",
     "icon": "images/lodash.svg",
     "engines": {
@@ -18,7 +18,8 @@
         "url": "https://github.com/OYsun/Vscode-Lodash-Snippents"
     },
     "categories": [
-        "Snippets"
+        "Snippets",
+        "Languages"
     ],
     "contributes": {
 		"snippets": [
