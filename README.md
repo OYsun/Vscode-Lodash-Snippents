@@ -5,7 +5,6 @@
 ```javascript
 ext install Lodash
 ```
-
 # 支持的文件格式
 - javascript
 - coffeescrip
